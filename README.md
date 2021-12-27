@@ -4,8 +4,8 @@
 
  
 For various troubles or problems, please give feedback: osmankocakank@gmail.com<br />
-The program is compatible with Windows 10 64-bit version.<br />
-The program requires an internet connection during installation and use.<br />
+Compatible with Windows 10 64-bit version.<br />
+Requires an internet connection during installation and use.<br />
 See more information: Installation and User Guide.<br />
 Download:<br />
 Google Drive: https://drive.google.com/file/d/1jpMpBHgreQ5RlQkPLvStqfn0rnpKNTSp/view?usp=sharing <br />
