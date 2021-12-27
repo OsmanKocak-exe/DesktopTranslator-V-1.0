@@ -1,5 +1,5 @@
 # DesktopTranslator-V-1.0
-## Image to Text &amp; Text to Targeted Language: Simple translator for Desktop
+## Image to Text &amp; Text to Targeted Language: Simple translator for Windows
 ### Using Python 3.10 openCV-OCR libraries
 
  
