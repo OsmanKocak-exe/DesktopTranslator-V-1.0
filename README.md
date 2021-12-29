@@ -7,5 +7,5 @@ For various troubles or problems, please give feedback: osmankocakank@gmail.com<
 Compatible with Windows 10 64-bit version.<br />
 Requires an internet connection during installation and use.<br />
 Download:<br />
-Google Drive: https://drive.google.com/file/d/1jpMpBHgreQ5RlQkPLvStqfn0rnpKNTSp/view?usp=sharing <br />
-Drop Box: https://www.dropbox.com/s/by4zcntq2aduonj/dttsetup.zip?dl=0
+Google Drive: https://drive.google.com/file/d/1SkA1gmL4TWVwYVIhUgNESrUX8Aj6sTI9/view?usp=sharing  <br />
+Drop Box: https://www.dropbox.com/s/6uepr1pkp4spq5c/dttsetup.zip?dl=0
