@@ -377,7 +377,6 @@ def cutSameArea():
 if(errorC == False):
     mainW = ThemedTk(theme="equilux", themebg=True, toplevel=True)
     mainW.title("DTTranslator V 1.0")
-    mainW.iconbitmap(r'D:\Apss\ddtranslator\wcon\wcon.ico')  
     mainWFX = 425
     mainWFY = 250
     sc_width = mainW.winfo_screenwidth()
