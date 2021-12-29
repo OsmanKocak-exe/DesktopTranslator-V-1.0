@@ -389,6 +389,7 @@ if(errorC == False):
     i = IntVar()
     z = IntVar()
     settingsrb1 = IntVar()
+    
     settingsrb1.set(1)
     settingsrb2 = IntVar()
     settingsrb2.set(1)
