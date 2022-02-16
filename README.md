@@ -9,3 +9,7 @@ Requires an internet connection during installation and use.<br />
 Download:<br />
 Google Drive: https://drive.google.com/file/d/1SkA1gmL4TWVwYVIhUgNESrUX8Aj6sTI9/view?usp=sharing  <br />
 Drop Box: https://www.dropbox.com/s/6uepr1pkp4spq5c/dttsetup.zip?dl=0
+
+![img](https://i.ibb.co/fvPNYWG/image-2022-02-16-193944.png)
+
+img: https://ibb.co/xHRgSb8
